@@ -1,4 +1,4 @@
-## (DMS) Dead Man's Switch
+## Dead Man's Switch (DMS)
 
 This is a dead man's switch security application with three key scripts:
 
