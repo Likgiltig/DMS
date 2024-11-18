@@ -1,6 +1,6 @@
 ## Dead Man's Switch (DMS)
 
-This is a dead man's switch security application with three key scripts:
+This is a dead man's switch security project with three key scripts:
 
 1. `gen_key.py`: Generates a RSA key pair (public and private keys)
    - Creates 2048-bit RSA keys
